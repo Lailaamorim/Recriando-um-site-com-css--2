@@ -1,0 +1,169 @@
+ body {
+
+  
+    margin:0px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTabbJWosN1X6HX5t10J5A6z2y0Vi4YdATAicYUAq7ForETK4Evf4VR0tt3RDyXfwRHbLE&usqp=CAU)
+  }
+
+ h2 {font-size: 30px;
+    font-family:"Dancing+Script&family","Edu+VIC+WA+NT+Beginner&display";
+    color:rgb(235, 164, 211) 
+}
+h1{color:rgb(235, 164, 211);
+    font-size: 80px;
+    text-decoration:wavy;
+    font-family:"Edu+VIC+WA+NT+Beginner&display","Dancing+Script&family";
+    }
+
+  img {
+    float: left;
+    border: transparent thin solid;
+    padding: 15px;
+    margin: 5px 15px 15px 05
+    
+  }
+
+   
+.logo {
+         margin:50;
+        width: 100vh;
+        float:inline-start;
+        font-family:"Dancing+Script&family","Edu+VIC+WA+NT+Beginner&display",sans-serif;
+        font-size: 0.1rem;
+        padding-left: 3rem
+        
+        
+           }     
+           .pesa{
+            text-align: center;
+            margin: 20px auto 20px auto;
+
+       
+           }
+
+.post-container{
+width: 70%;
+height: 100%;
+margin: 0px auto 0px auto;
+background-color:black;
+}
+
+.post-content{
+width: 90%;
+font-family: "Edu+VIC+WA+NT+Beginner&display";
+}
+
+.post-container{
+margin-bottom: 50px;
+padding-top:  20px;
+padding-left: 50px;
+}
+
+  header {
+    display: flex;
+    background: black;
+    align-items: center;
+    height: 5rem;
+  }
+
+   
+    /*Header*/
+    /*nav*/
+    
+        
+    /*nav*/
+
+
+      /*main*/
+    
+      #painel {
+        margin-top: 10rem;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 5rem;
+        color:white;
+      }
+      
+      #painel section #noti {
+        background: rgb(143, 188, 143);
+        width: 50vw;
+      }
+      
+      #painel section#noti  .post {
+        padding: 2rem;
+        margin-bottom: 4rem; 
+      }
+      #painel section#noti .post h1 {
+        margin-bottom: 1rem; color: #36ebb7;
+      }
+      
+      #painel section#noti  .post p.date {
+        font-family: "Montserrat", sans-serif;
+        margin-bottom: 4rem;
+        color: #29c296;
+    
+      }
+      #divisor1, #divisor2, #divisor3, #divisor4, #divisor5, #divisor6, #divisor7, #divisor8 {
+        height: 2px;
+       width: 50vw;
+       color:purple;
+     }
+     
+     #divisor1 {
+        background: rgb(19,201,150);
+      background: linear-gradient(331deg, rgba(19,201,150,1) 11%, rgba(203,35,126,1) 73%);
+      }
+      
+      #divisor2 {
+        background: rgb(203,35,126);
+      background: linear-gradient(331deg, rgba(203,35,126,1) 34%, rgba(19,201,150,1) 89%);
+      }
+      #divisor3 {
+        background: rgb(19,201,150);
+      background: linear-gradient(331deg, rgba(19,201,150,1) 11%, rgba(203,35,126,1) 73%);
+      }
+      
+      #divisor4 {
+        background: rgb(203,35,126);
+      background: linear-gradient(331deg, rgba(203,35,126,1) 34%, rgba(19,201,150,1) 89%);
+      }
+    
+      #divisor5 {
+        background: rgb(19,201,150);
+      background: linear-gradient(331deg, rgba(19,201,150,1) 11%, rgba(203,35,126,1) 73%);
+      }
+      
+      #divisor6 {
+        background: rgb(203,35,126);
+      background: linear-gradient(331deg, rgba(203,35,126,1) 34%, rgba(19,201,150,1) 89%);
+      }
+    
+      #divisor7 {
+        background: rgb(19,201,150);
+      background: linear-gradient(331deg, rgba(19,201,150,1) 11%, rgba(203,35,126,1) 73%);
+      
+      }
+      h1 {
+        color: #ab2479;
+      }
+
+      /*main*/
+      
+      
+      footer {
+        display: flex;
+        background:palevioletred;
+        width: 100%;
+        height: 5em;
+        font-size: 1.2em;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      footer span {
+        font-family: "Dancing+Script&family", cursive;
+      }
+      
+      footer p {
+        margin-inline: 3rem;
+      }
